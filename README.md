@@ -29,9 +29,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimbirtem&layout=compact&hide=html" alt="kerimbirtem" /></p>
-
-<p><a href="https://github.com/kerimbirtem/predict_machine_failures_ML"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerimbirtem&repo=predict_machine_failures_ML" /></a></p>
-<p><a href="https://github.com/kerimbirtem/Medical_Cost_Personal_ML"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerimbirtem&repo=Medical_Cost_Personal_ML" /></a></p>
-<p><a href="https://github.com/kerimbirtem/Football_Player_Analytics-Visualization"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerimbirtem&repo=Football_Player_Analytics-Visualization" /></a></p>
-<p><a href="https://github.com/kerimbirtem/OpenCV_YoloV8_vehicle_counter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerimbirtem&repo=OpenCV_YoloV8_vehicle_counter" /></a></p>
-<p><a href="https://github.com/kerimbirtem/Looker_Studio_reports_DataAnalystBoostcamp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerimbirtem&repo=Looker_Studio_reports_DataAnalystBoostcamp" /></a></p>
