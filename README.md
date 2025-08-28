@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim Birtem</h1>
-<h3 align="center">Passionate about AI, Analysis, Data Science and Engineering, ML, Deep Learning, Big Data, Business Analysis and Software Development.</h3>
+<h3 align="center">Passionate about AI, Analysis, Data Science and Engineering, ML, Deep Learning, Big Data.</h3>
 
 - 🌱 I’m currently learning **tensorflow, big data tools, data scrapping, deep learning models.**
 
